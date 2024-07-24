@@ -1,10 +1,10 @@
 # Image2ASCII-Converter
 
-#Intro
+## Intro
 
 A fun python script that analyzes an image and creates a text file image from it. 
 
-#How to Use
+## How to Use
 
 - change the directory at the bottom of your code to your computer's correct file path. 
 
@@ -12,3 +12,6 @@ A fun python script that analyzes an image and creates a text file image from it
 
 - Run and enjoy the images! 
 
+## Improvements
+
+This is just for fun, so be sure to adapt the code to your liking. Thanks! 
