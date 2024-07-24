@@ -61,5 +61,5 @@ def main(images_folder):
 
 # Example usage
 if __name__ == "__main__":
-    images_folder = "/Users/zain-macbook-pro/Desktop/Github/images"  # Path to the images folder
+    images_folder = "YOUR/FILE/PATH/HERE"  # Path to the images folder
     main(images_folder)
